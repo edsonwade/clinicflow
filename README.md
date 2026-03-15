@@ -1,6 +1,5 @@
 # clinicflow
 
-```markdown
 <div align="center">
 
 <img src="docs/assets/clinicflow-logo.svg" alt="ClinicFlow Logo" width="120" />
