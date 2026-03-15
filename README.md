@@ -2,13 +2,13 @@
 
 <div align="center">
 
-<img src="docs/assets/clinicflow-logo.svg" alt="ClinicFlow Logo" width="120" />
+<img src="https://www.svgrepo.com/show/279236/placeholder-hospital.svg" width="120" />
 
 # ClinicFlow
 
-**The all-in-one SaaS platform for modern medical clinics**
+**Platform for modern medical clinics**
 
-[![CI/CD](https://github.com/clinicflow/clinicflow/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/clinicflow/clinicflow/actions/workflows/ci-cd.yml)
+![CI/CD](https://img.shields.io/badge/CI/CD-pending-lightgrey)
 [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=clinicflow-backend&metric=coverage)](https://sonarcloud.io/summary/new_code?id=clinicflow-backend)
 [![Quality Gate](https://sonarcloud.io/api/project_badges/measure?project=clinicflow-backend&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=clinicflow-backend)
 [![License](https://img.shields.io/badge/license-Proprietary-red.svg)](LICENSE)
