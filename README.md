@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://www.svgrepo.com/show/279236/placeholder-hospital.svg" width="120" />
+<img src="https://www.svgrepo.com/show/279236/placeholder-hospital.svg" width="120"  alt="/"/>
 
 # ClinicFlow
 
@@ -94,12 +94,12 @@ Patient reminded → Follow-up scheduled
 - 🏥 **ICD-10 coding** — searchable in Portuguese and English
 - 💊 **Electronic prescriptions** — with allergy and drug interaction checking
 - 📎 **File attachments** — lab results, X-rays, PDFs
-- 📜 **Immutable records** — finalised records are locked (GDPR compliant)
+- 📜 **Immutable records** — finalized records are locked (GDPR compliant)
 
 ### 🏢 For Clinic Administrators
 - 📈 **Real-time dashboard** — occupancy rate, revenue, no-shows
 - 👤 **Staff management** — role-based access control
-- ⚙️ **Full customisation** — appointment types, working hours, templates
+- ⚙️ **Full customization** — appointment types, working hours, templates
 - 📊 **Monthly reports** — downloadable PDF and Excel
 
 ### 📱 For Patients
@@ -899,15 +899,5 @@ Unauthorised copying, modification, or distribution is strictly prohibited.
 
 See [LICENSE](LICENSE) for full terms.
 
----
-
-<div align="center">
-
-Built with ❤️ for healthcare professionals across Europe
-
-[🌐 clinicflow.io](https://clinicflow.io) · [📖 docs.clinicflow.io](https://docs.clinicflow.io) · [📧 hello@clinicflow.io](mailto:hello@clinicflow.io)
-
-</div>
-```
 
 
